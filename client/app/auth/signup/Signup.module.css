@@ -1,0 +1,107 @@
+/* 
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+  }
+  
+  .container {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .heading {
+    margin-bottom: 2rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;  
+    height: 400px; 
+    margin: auto;
+  }
+  
+  .mb-3 {
+    margin-bottom: 1rem;
+    text-align: left; 
+  }
+  
+  .form-label {
+    font-weight: 600;
+    text-align: left; 
+    display: block; 
+  }
+  
+  .form-control {
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    padding: 0.5rem 0.75rem;
+  }
+  
+  .loginLink {
+    margin-bottom: 1rem;
+    text-align: left;
+  }
+  
+  .loginLink a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .loginLink a:hover {
+    text-decoration: underline;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+  }
+   */
+
+
+
+
+   .gradient-custom {
+
+    background: #6a11cb;
+
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+
+    height: 100vh;
+
+    width: 100vw;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+    }
+    
+/* 
+
+.vh-100 {
+  height: 100vh;
+}
+
+.text-white-50 {
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.fw-bold {
+  font-weight: bold !important;
+} */
